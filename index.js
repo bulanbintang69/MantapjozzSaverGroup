@@ -327,8 +327,9 @@ bot.action('HELP',(ctx)=>{
         disable_web_page_preview: true,
         reply_markup:{
             inline_keyboard: [
-                [{text:'Join Group Vip',callback_data:'INS'},{text:'Beli Nomor Us',callback_data:'COMM'}],
-                [{text:'Kembali',callback_data:'STARTUP'}]
+                [{text:'Group Reseller',callback_data:'INS'},{text:'Informasi Bot',callback_data:'COMM'}],
+                [{text:'Beli Followers',callback_data'INS'},{text:'Kembali',callback_STARTUP'}]
+            ]data:'STARTUP'},]
             ]
         }
     })

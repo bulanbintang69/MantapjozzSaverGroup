@@ -33,15 +33,15 @@ module.exports.botinstall = `<u>List Join Group Vip PPV / Full Genre Indo, asian
 \n- untuk sementara vip gudang bokep masih bisa menggunakan no indo
 \n- pembayaran via ovo, dana, gopay 
 \n================
-\nuntuk join silahkan chat admin👇
-\nadmin 1 : <a href="http://wa.me/380995437384">Softmilk</a>
-\nadmin 2 : <a href="http://wa.me/84589340445">Amadeus</a> .
+\nuntuk join silahkan klik👇
+\naGroup Topup Game: <a href="https://t.me/+fuwz6HPKTAYzZDhl">Hageuy Game Store</a>
+\nadmin  : <a href="https://t.me/Alaika_1115">Admin</a> .
 `;
 
 module.exports.botorder = `<u>Suka sama BOT gini ? mau punya yang sama gini ?</u>
 \nKuy langsung Chat admin untuk Order ataupun untuk source Gratisnya.
 \n================
-\nUntuk Source Gratisnya Bisa Langsung Visit Link Ini : <a href="https://github.com/softmilkpc/MantapjozzSaverGroup">Softmilk Source</a>
+\nUntuk Source Gratisnya Bisa Langsung Visit Link Ini : <a href="">Softmilk Source</a>
 \nKalau Mau tinggal beres langsung chat admin.
 \n================
 \nOrder Bot silahkan chat admin👇
